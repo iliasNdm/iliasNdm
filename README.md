@@ -4,8 +4,6 @@
 
 ### Backend Engineer — Java · Spring Boot · Cloud & DevOps
 
-AI & Computer Engineering @ **Arts et Métiers (ENSAM), Casablanca**. I design secure REST APIs and microservices, and ship them with modern Cloud & DevOps tooling (AWS, Kubernetes, Terraform, CI/CD).
-
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilias%20Nadmi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iliasnadmi/)
@@ -18,12 +16,31 @@ AI & Computer Engineering @ **Arts et Métiers (ENSAM), Casablanca**. I design s
 
 ---
 
-## 🎯 Focus Areas
+## 💻 About Me
 
-- 🧩 **Backend engineering** — DDD microservices with **Spring Boot / Spring Cloud**, event-driven communication with **Kafka**, and security with **Keycloak, JWT & RBAC**
-- ☁️ **Cloud & DevOps** — infrastructure as code with **Terraform** on **AWS**, **Kubernetes & Helm** deployments, GitOps with **ArgoCD**, CI/CD pipelines, and observability with **Prometheus / Grafana / Loki**
-- 🤖 **Applied AI** — RAG pipelines, LLM agents (**LangChain / LangGraph**), and ML for security (fine-tuned **SecBERT** intrusion detection)
-- 🎓 **Certifications** — AWS Certified Cloud Practitioner · Generative AI with RAG & LangChain (IBM) · Intro to Cyber Security (Cisco)
+```console
+ilias@dev:~$ whoami
+Ilias Nadmi — Backend Engineer (Java · Spring Boot · Cloud & DevOps)
+
+ilias@dev:~$ cat education.txt
+AI & Computer Engineering @ Arts et Métiers (ENSAM) — Casablanca, Morocco
+
+ilias@dev:~$ ls ~/expertise/
+backend/        → DDD microservices · Spring Boot/Cloud · Kafka · Keycloak (JWT, RBAC)
+cloud-devops/   → Terraform on AWS · Kubernetes · Helm · ArgoCD (GitOps) · GitLab CI
+observability/  → Prometheus · Grafana · Loki
+ai-ml/          → RAG pipelines · LangChain/LangGraph agents · SecBERT intrusion detection
+
+ilias@dev:~$ ./run_checks.sh --certifications
+[✓] AWS Certified Cloud Practitioner ............ PASSED
+[✓] Generative AI with RAG & LangChain (IBM) .... PASSED
+[✓] Introduction to Cyber Security (Cisco) ...... PASSED
+[✓] C Essentials (Cisco) ........................ PASSED
+All checks passed (4/4)
+
+ilias@dev:~$ echo $STATUS
+Building things that ship: secure APIs, automated pipelines, observable systems.
+```
 
 <br>
 
