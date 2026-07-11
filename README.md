@@ -18,29 +18,9 @@
 
 ## 💻 About Me
 
-```console
-ilias@dev:~$ whoami
-Ilias Nadmi — Backend Engineer (Java · Spring Boot · Cloud & DevOps)
-
-ilias@dev:~$ cat education.txt
-AI & Computer Engineering @ Arts et Métiers (ENSAM) — Casablanca, Morocco
-
-ilias@dev:~$ ls ~/expertise/
-backend/        → DDD microservices · Spring Boot/Cloud · Kafka · Keycloak (JWT, RBAC)
-cloud-devops/   → Terraform on AWS · Kubernetes · Helm · ArgoCD (GitOps) · GitLab CI
-observability/  → Prometheus · Grafana · Loki
-ai-ml/          → RAG pipelines · LangChain/LangGraph agents · SecBERT intrusion detection
-
-ilias@dev:~$ ./run_checks.sh --certifications
-[✓] AWS Certified Cloud Practitioner ............ PASSED
-[✓] Generative AI with RAG & LangChain (IBM) .... PASSED
-[✓] Introduction to Cyber Security (Cisco) ...... PASSED
-[✓] C Essentials (Cisco) ........................ PASSED
-All checks passed (4/4)
-
-ilias@dev:~$ echo $STATUS
-Building things that ship: secure APIs, automated pipelines, observable systems.
-```
+<div align="center">
+  <img src="./terminal.svg" alt="Terminal session: whoami — Ilias Nadmi, Backend Engineer (Java · Spring Boot · Cloud & DevOps), ENSAM Casablanca, expertise in backend, cloud-devops, observability, AI/ML — all certification checks passed" width="800">
+</div>
 
 <br>
 
