@@ -86,6 +86,14 @@
 
 <img src="https://streak-stats.demolab.com?user=iliasNdm&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub streak" />
 
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iliasNdm/iliasNdm/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iliasNdm/iliasNdm/output/github-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/iliasNdm/iliasNdm/output/github-snake.svg">
+</picture>
+
 </div>
 
 <br>
