@@ -84,11 +84,6 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iliasNdm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliasNdm&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top languages" />
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com?user=iliasNdm&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub streak" />
 
 </div>
